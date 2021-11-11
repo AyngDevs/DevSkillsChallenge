@@ -4,13 +4,17 @@ The app allows to login, register members with the api (http://localhost:8081) a
 Also, makes the necessary user validations on the front.
 
 # Steps to run the API
-#### 1. Install packages with the command -> `npm install`
+#### 1. Enter to the api folder -> `cd api`
 
-#### 2. Run with -> `npm run serve`
+#### 2. Install packages with the command -> `npm install`
+
+#### 3. Run with -> `npm run serve`
 
 # Steps to run the NextJs React Redux App
-#### 1. Install packages with the command -> `npm install`
+#### 1. Enter to the ui-next folder -> `cd ui-next`
 
-#### 2. Run in dev mode -> `npm run dev`
+#### 2. Install packages with the command -> `npm install`
 
-#### 3. Valid credentials are -> `{ username: sarah, password: connor }`
+#### 3. Run in dev mode -> `npm run dev`
+
+#### 4. Valid credentials are -> `{ username: sarah, password: connor }`
