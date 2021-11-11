@@ -1,7 +1,7 @@
 # NewCombin DevSkills Code Challenge
-I spent a lot of time merging both of these technologies together (NextJs and Redux).
+I spent a lot of time merging both of these technologies (NextJs and Redux).
 The app allows to login, register members with the api (http://localhost:8081) and logout.
-Makes the necessary user validations on the front.
+Also, makes the necessary user validations on the front.
 
 # Steps to run the API
 #### 1. Install packages with the command -> `npm install`
